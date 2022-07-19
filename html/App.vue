@@ -34,7 +34,7 @@ const output = computed(() => {
         target='_blank'>GitHub仓库</a>加星。
     </p>
     <p>
-      © 2020 | Rimo | MPL-2.0
+      © 2077 | Rimo | MPL-2.0
     </p>
   </div>
 </template>
