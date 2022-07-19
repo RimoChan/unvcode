@@ -10,10 +10,13 @@ body {
 
 .底 {
   position: fixed;
+  align-items: center;
   bottom: 0.2rem;
-  left: 50%;
-  transform: translate(-50%, 0);
-  font-size: 80%;
+  font-size: 1rem;
+
+  p {
+    padding: 0 1rem;
+  }
 }
 
 .怪 {
