@@ -21,7 +21,7 @@
 
 ## 在线Demo
 
-<https://unvcode.librian.net/html/main.html>
+<https://unvcode.librian.net/>
 
 因为JS处理图像很麻烦，所以这是把中间结果打表到代码里的，如果和Python的输出对不齐是正常现象。
 
